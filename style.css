@@ -8,6 +8,8 @@
 
 body {
     font-family: 'Gowun Batang', serif;
+    max-width: 450px;
+    margin: 0 auto;
 }
 
 li {
@@ -20,7 +22,6 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
-    max-width: 800px;
     height: 812px;
     margin: 0 auto;
     text-align: center;
@@ -64,7 +65,7 @@ header {
 /* section */
 section {
     width: 100%;
-    max-width: 1000px;
+    max-width: 780px;
     text-align: center;
     margin: 0 auto;
 }
@@ -223,7 +224,6 @@ footer {
     padding-top: 40px;
     padding-bottom: 40px;
     background-color: #837292;
-    max-width: 1000px;
     text-align: center;
     margin: 0 auto;
 }
